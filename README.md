@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-esam1?lipi=urn%3ali%3apage%3ad_flagship3_messaging_conversation_detail%3bsnproivkrq6tjtpc3phnzw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-esam1?lipi=urn%3ali%3apage%3ad_flagship3_messaging_conversation_detail%3bsnproivkrq6tjtpc3phnzw%3d%3d" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/problemset?order=by_solved_desc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/problemset?order=by_solved_desc" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-esam1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-esam1" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/m_esam14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="m_esam14" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
