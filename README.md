@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Esam Saied</h1>
-<h3 align="center">I am a student From Egypt</h3>
+<h3 align="center">I am a communications Engineering student from Egypt</h3>
 
 - 🌱 I’m currently learning **Embedded Linux & Machine Learning**
 
