@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Embedded Linux & Machine Learning**
 
-- 👨‍💻 check my CV [https://drive.google.com/file/d/1Q9ynusA-J3KR4ImZRO_bb_cPnYSSVgAp/view?usp=sharing]([https://drive.google.com/file/d/1Q9ynusA-J3KR4ImZRO_bb_cPnYSSVgAp/view?usp=sharing](https://drive.google.com/file/d/134sEhIwXf1UP45LxU7cTUI8dhLRcPgUI/view))
+- 👨‍💻 check my CV [https://drive.google.com/file/d/134sEhIwXf1UP45LxU7cTUI8dhLRcPgUI/view](https://drive.google.com/file/d/134sEhIwXf1UP45LxU7cTUI8dhLRcPgUI/view)
 
 - 📫 How to reach me **mes147494@gmail.com**
 
