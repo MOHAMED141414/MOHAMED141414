@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Embedded Linux & Machine Learning**
 
-- 👨‍💻 check my CV [https://drive.google.com/file/d/134sEhIwXf1UP45LxU7cTUI8dhLRcPgUI/view](https://drive.google.com/file/d/134sEhIwXf1UP45LxU7cTUI8dhLRcPgUI/view)
+- 👨‍💻 check my Resume [https://drive.google.com/file/d/1aZzZnYueU2HGTMulyOOMbCeoDZOjxcxp/view?usp=sharing)
 
-- 📫 How to reach me **mes147494@gmail.com**
+- 📫 How to reach me **mohamedesamsaid50@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
