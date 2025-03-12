@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Embedded Linux & Machine Learning**
 
-- 👨‍💻 check my Resume https://drive.google.com/file/d/175_2i9PlXuyA-5s9moOmPMfQPMMBJ3pD/view?usp=sharing
+- 👨‍💻 check my Resume [https://drive.google.com/file/d/175_2i9PlXuyA-5s9moOmPMfQPMMBJ3pD/view?usp=sharing](https://drive.google.com/file/d/1ZxNBw5j3WZyWpcBFubaW1mIqO92sSibz/view?usp=sharing)
 - 📫 How to reach me **mohamedesamsaid50@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
